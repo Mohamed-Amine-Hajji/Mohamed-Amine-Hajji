@@ -1,0 +1,3 @@
+-Hi, I’m Mohamed-Amine-Hajji
+-I’m interested in Python, C++, Javascripte
+-I’m currently learning C#
