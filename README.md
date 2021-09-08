@@ -1,3 +1,2 @@
--Hi, I’m Mohamed-Amine-Hajji
--I’m interested in Python, C++, Javascripte
--I’m currently learning C#
+Hi i am amine.
+If you wan to download this application you cant but there is my name in the application so you cant remove it .
